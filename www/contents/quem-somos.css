@@ -1,0 +1,42 @@
+.animate-state{
+    position:relative !important;
+}
+
+.float-images{
+    position:absolute !important;
+}
+
+.circulo-amarelo{
+    top:-100px;
+    right:0px;
+    z-index: 1000;
+}
+
+.circulo-amarelo-mobile{
+    top:-30px;
+    right:0px;
+    z-index: 1000;
+    width:100px;
+}
+
+.enfermeira{
+    left: -500px;
+    top:150px;
+}
+
+.enfermeiro{
+    right: -200px;
+    top:160px;
+}
+
+.enfermeira-mobile{
+    left: -10px;
+    top:130px;
+    width:100px;
+}
+
+.enfermeiro-mobile{
+    right: 30px;
+    top:140px;
+    width:70px;
+}
