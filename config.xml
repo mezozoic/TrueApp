@@ -4,9 +4,10 @@
     <description>
         A blank PhoneGap app.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <author href="http://www.truecare.com.br">
+        TrueCare Team
     </author>
+	<icon src="icon.png" />
     <content src="index.html" />
     <access origin="*" />
 </widget>

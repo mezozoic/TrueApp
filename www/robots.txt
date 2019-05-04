@@ -1,7 +1,0 @@
-Disallow: *
-Allow: TrueCare.aspx
-Allow: nossa-equipe.aspx
-Allow: Quiz.aspx
-Allow: assistencia-domiciliar.aspx
-Allow: cuidados-com-pacientes-cronicos.aspx
-Allow: fale-com-a-gente.aspx
